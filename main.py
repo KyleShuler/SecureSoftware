@@ -1,7 +1,5 @@
 from utils import validate_zip 
-
 from weather import get_weather_forecast 
-
 from logger import logger 
 
  
