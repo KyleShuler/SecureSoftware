@@ -1,4 +1,7 @@
 # SecureSoftware
+
+The WeatherApp.py is the first version of the app I made it is not part of the rest of the app
+
 This is a secure weather forecast application that allows you to retrieve a 3-day weather forecasts by entering a ZIP code.
 The application has been made following secure software development principles, including input validation, error handling, encryption of secrets, logging, unit testing, and static code analysis.
 
